@@ -1,0 +1,24 @@
+{
+  "name": "Olasupo Naseer",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Software developer, gym enthusiast, loves learning new things",
+  "avatar": "https://github.com/Naseerj.png",
+    "links": [
+    {
+      "name": "jenrolaolasupo",
+      "url": "https://twitter.com/JenrolaOlasupo",
+      "icon": "FaTwitter"
+    },
+        {
+      "name": "jenrolaolasupo",
+      "url": "https://www.linkedin.com/in/naseer-olasupo-80933325a/",
+      "icon": "FaLinkedinIn"
+    }
+          {
+      "name": "jenrolaolasupo",
+      "url": "https://github.com/Naseerj",
+      "icon": "FaGithub"
+    }
+  ]
+}
